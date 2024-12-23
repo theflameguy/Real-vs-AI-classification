@@ -96,7 +96,7 @@ archive/
 
 The project uses transfer learning with architectures like:
 
-- ResNet-100
+- RexNet-150
 
 ### Training Configuration
 - **Optimizer**: Adam
